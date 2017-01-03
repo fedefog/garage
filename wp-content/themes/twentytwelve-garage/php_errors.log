@@ -1,0 +1,13 @@
+[17-Sep-2015 14:50:51] PHP Fatal error:  Call to undefined function post_password_required() in /var/www/gafilm/wp-content/themes/twentytwelve-garage/comments.php on line 20
+[01-Mar-2016 01:39:32] PHP Fatal error:  Call to undefined function bloginfo() in /var/www/gafilm/wp-content/themes/twentytwelve-garage/header.php on line 12
+[01-Mar-2016 01:39:34] PHP Fatal error:  Call to undefined function add_action() in /var/www/gafilm/wp-content/themes/twentytwelve-garage/functions.php on line 46
+[01-Mar-2016 01:39:34] PHP Fatal error:  Call to undefined function wp_nav_menu() in /var/www/gafilm/wp-content/themes/twentytwelve-garage/footer.php on line 3
+[13-Mar-2016 03:02:11] PHP Fatal error:  Call to undefined function add_action() in /var/www/gafilm/wp-content/themes/twentytwelve-garage/functions.php on line 46
+[13-Mar-2016 03:02:12] PHP Fatal error:  Call to undefined function wp_nav_menu() in /var/www/gafilm/wp-content/themes/twentytwelve-garage/footer.php on line 3
+[07-Jul-2016 15:45:05 America/El_Salvador] PHP Fatal error:  Call to undefined function add_action() in /var/www/gafilm/wp-content/themes/twentytwelve-garage/functions.php on line 46
+[03-Aug-2016 03:46:03 America/El_Salvador] PHP Fatal error:  Call to undefined function add_action() in /var/www/gafilm/wp-content/themes/twentytwelve-garage/functions.php on line 46
+[03-Aug-2016 08:28:58 America/El_Salvador] PHP Fatal error:  Call to undefined function add_action() in /var/www/gafilm/wp-content/themes/twentytwelve-garage/functions.php on line 46
+[06-Aug-2016 02:27:11 America/El_Salvador] PHP Fatal error:  Call to undefined function add_action() in /var/www/gafilm/wp-content/themes/twentytwelve-garage/functions.php on line 46
+[07-Aug-2016 12:14:22 America/El_Salvador] PHP Fatal error:  Call to undefined function bloginfo() in /var/www/gafilm/wp-content/themes/twentytwelve-garage/header.php on line 12
+[07-Aug-2016 12:14:23 America/El_Salvador] PHP Fatal error:  Call to undefined function wp_nav_menu() in /var/www/gafilm/wp-content/themes/twentytwelve-garage/footer.php on line 3
+[10-Aug-2016 14:26:01 America/El_Salvador] PHP Fatal error:  Call to undefined function add_action() in /var/www/gafilm/wp-content/themes/twentytwelve-garage/functions.php on line 46

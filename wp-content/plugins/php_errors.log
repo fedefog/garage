@@ -1,0 +1,16 @@
+[06-May-2015 01:46:11] PHP Fatal error:  Call to undefined function add_action() in /var/www/gafilm/wp-content/plugins/hello.php on line 60
+[27-May-2015 04:54:54] PHP Fatal error:  Call to undefined function add_action() in /var/www/gafilm/wp-content/plugins/hello.php on line 60
+[29-May-2015 00:42:57] PHP Fatal error:  Call to undefined function add_action() in /var/www/gafilm/wp-content/plugins/hello.php on line 60
+[27-Jun-2015 15:05:04] PHP Fatal error:  Call to undefined function add_action() in /var/www/gafilm/wp-content/plugins/hello.php on line 60
+[30-Jun-2015 13:06:02] PHP Fatal error:  Call to undefined function add_action() in /var/www/gafilm/wp-content/plugins/hello.php on line 60
+[12-Jul-2015 09:05:12] PHP Fatal error:  Call to undefined function add_action() in /var/www/gafilm/wp-content/plugins/hello.php on line 60
+[14-Aug-2015 09:21:09] PHP Fatal error:  Call to undefined function add_action() in /var/www/gafilm/wp-content/plugins/hello.php on line 60
+[22-Aug-2015 16:46:37] PHP Fatal error:  Call to undefined function add_action() in /var/www/gafilm/wp-content/plugins/hello.php on line 60
+[13-Sep-2015 04:10:46] PHP Fatal error:  Call to undefined function add_action() in /var/www/gafilm/wp-content/plugins/hello.php on line 60
+[20-Oct-2015 21:57:59] PHP Fatal error:  Call to undefined function add_action() in /var/www/gafilm/wp-content/plugins/hello.php on line 60
+[01-Jan-2016 20:23:09] PHP Fatal error:  Call to undefined function add_action() in /var/www/gafilm/wp-content/plugins/hello.php on line 60
+[19-Jan-2016 15:10:54] PHP Fatal error:  Call to undefined function add_action() in /var/www/gafilm/wp-content/plugins/hello.php on line 60
+[15-Mar-2016 18:08:45] PHP Fatal error:  Call to undefined function add_action() in /var/www/gafilm/wp-content/plugins/hello.php on line 60
+[15-Mar-2016 18:08:55] PHP Fatal error:  Call to undefined function add_action() in /var/www/gafilm/wp-content/plugins/hello.php on line 60
+[26-Apr-2016 05:59:00 America/El_Salvador] PHP Fatal error:  Call to undefined function add_action() in /var/www/gafilm/wp-content/plugins/hello.php on line 60
+[25-May-2016 15:52:52 America/El_Salvador] PHP Fatal error:  Call to undefined function add_action() in /var/www/gafilm/wp-content/plugins/hello.php on line 60
