@@ -19,10 +19,10 @@
 define('DB_NAME', 'garage_db1');
 
 /** Tu nombre de usuario de MySQL */
-define('DB_USER', 'garage_db1');
+define('DB_USER', 'root');
 
 /** Tu contraseña de MySQL */
-define('DB_PASSWORD', 'G4rag3P@ss');
+define('DB_PASSWORD', 'root');
 
 /** Host de MySQL (es muy probable que no necesites cambiarlo) */
 define('DB_HOST', 'localhost');
